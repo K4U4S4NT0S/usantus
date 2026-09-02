@@ -1,7 +1,7 @@
 {
   "meta": {
-    "siteTitle": "Título da página",
-    "siteDescription": "Seu cargo / Título",
+    "siteTitle": "Kauã Santos",
+    "siteDescription": "My personal portfolio website",
     "ogImage": "https://placehold.co/1200x630.png",
     "favicon": "https://github.com/openportfolios.png",
     "defaultTheme": "dark",
@@ -11,10 +11,10 @@
     "credits": true
   },
   "person": {
-    "name": "Seu nome",
-    "title": "Seu cargo / Título",
-    "email": "seu@email.com",
-    "location": "Sua cidade, Seu país",
+    "name": "Kauã Santos",
+    "title": "Técnico em Tecnologia da Informação | Estudante de ADS",
+    "email": "kauasantos00727@gmailcom ",
+    "location": "São Paulo, Brasil",
     "avatar": "https://github.com/openportfolios.png",
     "social": [
       {
