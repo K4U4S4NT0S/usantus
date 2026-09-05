@@ -3,7 +3,7 @@
     "siteTitle": "Kauã Santos",
     "siteDescription": "My personal portfolio website",
     "ogImage": "https://placehold.co/1200x630.png",
-    "favicon": "https://github.com/openportfolios.png",
+    "favicon": "https://github.com/K4U4S4NT0S.png",
     "defaultTheme": "dark",
     "scale": "small",
     "language": "pt",
@@ -15,24 +15,44 @@
     "title": "Técnico em Tecnologia da Informação | Estudante de ADS",
     "email": "kauasantos00727@gmailcom ",
     "location": "São Paulo, Brasil",
-    "avatar": "https://github.com/openportfolios.png",
+    "avatar": "https://github.com/K4U4S4NT0S.png",
     "social": [
+      
       {
         "label": "GitHub",
-        "href": "https://github.com/openportfolios",
+        "href": "https://github.com/K4U4S4NT0S",
         "icon": "github"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/kauasantos030404",
+        "icon": "linkedin"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/_usantus",
+        "icon": "instagram"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/kauasantos0707",
+        "icon": "x"
+      },
+      {
+        "label": "Spotify",
+        "href": "https://open.spotify.com/user/ejad97j0dtugy6qxr1abkd57o?si=09b0e907ea0b4008",
+        "icon": "spotify"
       }
     ]
   },
   "about": {
     "text": [
-      "Uma breve biografia descrevendo quem você é, o que você faz e o que te motiva profissionalmente. Esta é a sua chance de falar sobre sua trajetória, paixões e foco atual.",
-      "Você também pode usar [texto colorido]{#8D62DD} e [links](https://github.com/openportfolios/yuri){#0EA5E9} na sua biografia."
+      "Olá, sou Kauã, formado em Desenvolvimento de Software Multiplataforma (DSM) e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS), onde continuo aprimorando meus conhecimentos em tecnologia e programação."
     ]
   },
   "workExperience": [
     {
-      "company": "Nome da Empresa",
+      "company": "",
       "companyUrl": "https://www.company.com",
       "companyImage": "https://placehold.co/1366x768",
       "companyDescription": "Uma breve descrição da empresa, o que ela faz e sua missão.",
@@ -50,6 +70,7 @@
         "Qualquer outra informação que você ache relevante para mostrar suas habilidades e experiência."
       ]
     }
+    
   ],
   "education": [
     {
